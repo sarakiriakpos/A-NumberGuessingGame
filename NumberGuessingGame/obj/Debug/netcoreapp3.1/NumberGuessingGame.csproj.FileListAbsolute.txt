@@ -1,0 +1,11 @@
+C:\Users\sarak\Loops\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csprojAssemblyReference.cache
+C:\Users\sarak\Loops\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\sarak\Loops\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\sarak\Loops\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.exe
+C:\Users\sarak\Loops\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.deps.json
+C:\Users\sarak\Loops\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.json
+C:\Users\sarak\Loops\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.dev.json
+C:\Users\sarak\Loops\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.dll
+C:\Users\sarak\Loops\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+C:\Users\sarak\Loops\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.dll
+C:\Users\sarak\Loops\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.pdb
